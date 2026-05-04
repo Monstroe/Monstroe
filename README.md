@@ -2,7 +2,7 @@
 
 I am an **Embedded Software Engineer**. I also specialize in **Full-Stack Web Development** and **Game/Simulation Development**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monstroe&count_private=true&show_icons=true&hide_title=true&hide=prs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monstroe&count_private=true&show_icons=true)
 
 ---
 
@@ -21,8 +21,7 @@ I am an **Embedded Software Engineer**. I also specialize in **Full-Stack Web De
 
 ---
 
-### 🌐 Contact
+### 🌐 Social
 
-[![Email](https://img.shields.io/badge/Email-%23E4405F.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:colemontrose@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.colemontrose.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/colemontrose/)
