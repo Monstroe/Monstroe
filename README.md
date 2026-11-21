@@ -1,6 +1,6 @@
 # Cole Montrose
 
-I am an **Embedded Software Engineer**. I also specialize in **Game/Simulation Development** and **Full-Stack Web Development**.
+I build cool things sometimes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Monstroe&count_private=true&show_icons=true)
 
